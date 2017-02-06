@@ -3,16 +3,15 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 天猫前端
-
-title: 天猫前端
-description: 天猫前端
-url: "http://tmallfe.github.io"
+      title: fengsweat
+title: fengsweat
+description: fengsweat博客
+url: "http://fengsweat.github.io"
 
 author:
-  name: 天猫前端
+  name: fengsweat
   email: join-tmallfe@list.alibaba-inc.com
-  github: tmallfe
+  github: fengsweat
   bio: keep calm and carry on!
 
 rss_path: feed.xml
